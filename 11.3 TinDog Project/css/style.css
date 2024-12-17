@@ -48,3 +48,16 @@
   padding-right: 100px;
   margin-top: 0;
 }
+
+#testimonial h2{
+  padding-bottom: 50px;
+  }
+  
+  .golden{
+    border-radius: 50%;
+    height: 100px;
+  }
+  
+  .my-5 p{
+    margin-top: 8px;
+  }
