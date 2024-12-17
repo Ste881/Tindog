@@ -27,3 +27,18 @@
   border-radius: 50%;
 }
 
+.apple{
+  background-color: #ffffff;
+  color: black;
+  border-color: #ffffff;
+}
+
+.google{
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.row .flex-lg-row-reverse .align-items-center .g-5 .py-5{
+  padding-bottom: 0px !important;
+  height: 100vh;
+}
