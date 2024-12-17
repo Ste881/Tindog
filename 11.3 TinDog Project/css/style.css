@@ -50,14 +50,18 @@
 }
 
 #testimonial h2{
-  padding-bottom: 50px;
-  }
-  
-  .golden{
-    border-radius: 50%;
-    height: 100px;
-  }
-  
-  .my-5 p{
-    margin-top: 8px;
-  }
+padding-bottom: 50px;
+}
+
+.golden{
+  border-radius: 50%;
+  height: 100px;
+}
+
+.my-5 p{
+  margin-top: 8px;
+}
+
+#footer{
+  margin-bottom: 0px !important;
+}
